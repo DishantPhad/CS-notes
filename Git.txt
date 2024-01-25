@@ -1,0 +1,19 @@
+Git is a version control system .
+->easily recover files .
+->who introduced an issue and when ?
+->Roll back to previous working stage .
+
+History of version control systems -
+1. local version systems with the use of database for keeping the track of files .
+-drawbacks are if harddisk gets damaged then .
+2. centralized version controlled system .
+-drawbacks are if server gets damaged then .
+3. Distributed VCS.
+-Git is distributed version controlled system.
+-every user gets complete backup of his work even if server gets damaged .
+
+Git was created by Linus torland 
+
+BitBucket,GitHub,Gitlab are hosting companies .
+ 
+
